@@ -253,24 +253,37 @@ Scripts
 * Orain, which hosts the Orain branch of All The Tropes
 ** Dustin Muniz: Owner of Orain, and the wiki farm service he hosts in general (where I serve as a staff member)
 * All The Tropes (Orain)
-** Ecceltennysmith: Member of ATT, has a character based off her with their permission:
+
+** Ecceltennysmith: Member of ATT, has a character based off her with their permission
+
 ** Doc Colress: Member of ATT, has a character based off them with their permission
+
 * Wikia: Which hosts the Wikia branch of All The Tropes
+
 * Lady Tera of the SuccuWiki and her husband Keith, both of whom have characters based off them with their permission. Tera also deserves credit for beta reading and story advice integrating her and Keith's characters (modified from usual depictions in her own works) into my game.
+
 * The Project AFTER forums, for their blunt yet valuable criticism, without which I'm sure this game would be a steaming pile of crap.
+
 ** Master of AFTER, Yaoi Huntress Earth, Schmekie, Bonglorio, and CobaltKori, all of whom are PA members and partially or completely are represented by ingame avatars, and all of whom have consented to their representation. All specific game avatars and sprites unique to those characters not stock assets of the base application or imported from official DLC or community resources are to be considered mine and theirs, and cannot be reused without our mutual consent elsewhere. 
+
 * Silenity, from the RpgmakerVxAce forums, whom I owe a debt for some complicated eventing and scripting assistance.
+ 
 * SoulPour777 and dbchest, both members of the RPGMaker VXAce forums who wrote custom code for my project.
+
 * RPGMakerSource, for many excellent graphics and scripts (http://rpgmakersource.com/)
 
 
 == Version Notes ==
 
-Alpha 0.1: Initial version.
-Alpha 0.2: Fixed numerous bugs in initial alpha, finished basic aspects of Tantegel Castle, added in game encyclopedia and enemies/items/armor/weapons, redrew and expanded portions of the world map. Also replaced some music with DQ styled MP3/OGG files.
-Alpha 0.3: Introduced various performance fixes to reduce lag and framerate rate slowdown, changed winddowskin to more closely resemble classic DQ games, fleshed out Hero's Cave dungeon, did most of the work on the basics of Tantegel Town.
-Alpha 0.4: Fixed tileset goofs, repaired wonky game balance, finished dungeon and class system scripting, sped up battle framerate, added difficulty setting selection in Tantegel throne room, integrated Project AFTER into my game world, changed HUD to blue to match new Biography menu, fixed all bugs from previous release.
-Alpha 0.5: Added a lot more optimizations, increased resolution options, implemented cooking/alchemy system, finished overworld map design, added Invaders minigame, added maps for Garinheim, Sea Conch Cave, and added all monsters for first continent regions. Garinheim still a WIP, as is the rest of the continent aside from Tantegel Castle, Tantegel Town, Hero's Memorial, and Sea Conch Cave.
+* Alpha 0.1: Initial version.
+
+* Alpha 0.2: Fixed numerous bugs in initial alpha, finished basic aspects of Tantegel Castle, added in game encyclopedia and enemies/items/armor/weapons, redrew and expanded portions of the world map. Also replaced some music with DQ styled MP3/OGG files.
+
+* Alpha 0.3: Introduced various performance fixes to reduce lag and framerate rate slowdown, changed winddowskin to more closely resemble classic DQ games, fleshed out Hero's Cave dungeon, did most of the work on the basics of Tantegel Town.
+
+* Alpha 0.4: Fixed tileset goofs, repaired wonky game balance, finished dungeon and class system scripting, sped up battle framerate, added difficulty setting selection in Tantegel throne room, integrated Project AFTER into my game world, changed HUD to blue to match new Biography menu, fixed all bugs from previous release.
+
+* Alpha 0.5: Added a lot more optimizations, increased resolution options, implemented cooking/alchemy system, finished overworld map design, added Invaders minigame, added maps for Garinheim, Sea Conch Cave, and added all monsters for first continent regions. Garinheim still a WIP, as is the rest of the continent aside from Tantegel Castle, Tantegel Town, Hero's Memorial, and Sea Conch Cave.
 
 ==============
 
