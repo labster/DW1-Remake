@@ -246,6 +246,7 @@ Scripts
 59. Yanfly Status Menu by Yanfly
 60. Pong, Space Explorer, and Image Creation Script by Zarby
 61. Gamepad Extender by Lone Wolf (removed)
+62. Link Equipment to Skill/Item by Demintika
 
 
 == Additional Credits/Thanks To ==
