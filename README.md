@@ -96,17 +96,13 @@ Graphics/Sprites/Sounds
 
 =======================
 
-IMPORTANT NOTE: If it has a (COMMERICIAL) tag next to it, I had to pay actual money to acquire the rights to use this, and it 
+IMPORTANT NOTE: If it has a (COMMERICIAL) tag next to it, I had to pay actual money to acquire the rights to use this, and it may NOT be reused in other projects unless you have a legal copy of RPGmaker and have acquired your own copy from the source. 
 
-may NOT be reused in other projects unless you have a legal copy of RPGmaker and have acquired your own copy from the source. 
-
-They are only provided here in the archive for bugtesting and development reasons only in any WIP build, and any official 
-
-release will fall under the same guidelines.
+They are only provided here in the archive for bugtesting and development reasons only in any WIP build, and any official release will fall under the same guidelines.
 
 I believe in open sourcing my work because I'd like to make it easier for the community to bugtest my WIP code and offer suggestions and patches for game issues, but these items exist under specific conditions and should not be reproduced elsewhere unless you have your own legal copy for reuse in your own project.
 
-(LICENSED) material is that borrowed from the official games or other licensed media and is used for parody/fanfiction/unofficial fangame purposes only. It is the property of it owners (which are clearly identified) and not to be resold or claimed as anyone else's nor reused in other projects except under those very same terms.
+(LICENSED) material is that borrowed from the official games or other licensed media and is used for parody/fanfiction/unofficial fangame purposes only. It is the property of it's owners (which are clearly identified) and not to be resold or claimed as anyone else's nor reused in other projects except under those very same terms.
 
 
 * Community Pack DLC (COMMERICIAL)
