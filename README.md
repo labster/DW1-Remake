@@ -53,12 +53,11 @@ It will only last at least until the battle ends, though, or unless you die. Usi
 
 * Added a "Biography" menu option, so you can learn a little more about your playable characters.
 
-* Speak to Brent the castle librarian to recieve a Key Item that will serve as the ingame encyclopedia, usable from the item menu. It's still WIP, but does have the bestiary worked in at present.
+* Speak to Brent the castle librarian to receive a Key Item that will serve as the ingame encyclopedia, usable from the item menu. It's still WIP, but does have the bestiary worked in at present.
 
 == Story Differences from the original Dragon Quest ==
 
 The game borrows merely the background lore of the first game, coupled with expanded lore found in Dragon Quest III, and from that springboard much has been expanded or written from whole cloth. While the overall plot attempts to maintain consistency with the original Dragon Quest, there are major differences.
-
 
 * You start with three party members (later, 4)
 
@@ -109,7 +108,7 @@ I believe in open sourcing my work because I'd like to make it easier for the co
 
 * Evil Castle DLC (COMMERICIAL)
 
-* Fantastic Buildings Medievel DLC (COMMERICIAL)
+* Fantastic Buildings Medieval DLC (COMMERICIAL)
 
 * Monster sprites from various Dragon Quest games - credit goes to Square-Enix for all of those. (LICENSED)
 
@@ -285,6 +284,8 @@ Scripts
 * Alpha 0.4: Fixed tileset goofs, repaired wonky game balance, finished dungeon and class system scripting, sped up battle framerate, added difficulty setting selection in Tantegel throne room, integrated Project AFTER into my game world, changed HUD to blue to match new Biography menu, fixed all bugs from previous release.
 
 * Alpha 0.5: Added a lot more optimizations, increased resolution options, implemented cooking/alchemy system, finished overworld map design, added Invaders minigame, added maps for Garinheim, Sea Conch Cave, and added all monsters for first continent regions. Garinheim still a WIP, as is the rest of the continent aside from Tantegel Castle, Tantegel Town, Hero's Memorial, and Sea Conch Cave.
+
+* Alpha 0.6: (WIP) Last planned alpha before this hits beta status. Added rest of Garinheim, Garin's Tomb, Tantegel Treasure Keep, and Kol Teleport.
 
 ==============
 
