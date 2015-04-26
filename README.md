@@ -150,6 +150,8 @@ I believe in open sourcing my work because I'd like to make it easier for the co
 
 * Various Faces by Jasmine Reiner
 
+* Event Free Slot Machine graphics and code by Richard Coletta
+
 == Music ==
 
 Unless a specific author name is cited, these are MP3/OGG from various Dragon Quest games, credit goes to Koichi Sugiyama and Square Enix for those. All (LICENSED) unless cited as otherwise.
