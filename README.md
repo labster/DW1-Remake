@@ -1,4 +1,5 @@
 Dragon Quest I Remake
+=====================
 
 By GethN7
 
@@ -12,26 +13,28 @@ This does not have the RMVX Ace RTP, you need to download it here for this to wo
 http://www.rpgmakerweb.com/download/additional/run-time-packages
 
 
-== Controls ==
+Controls
+========
 
-At the start, after the intro (speed this up by holding down Enter), hit the Z button to change scene. 
+At the start, after the intro (speed this up by holding down `Enter`), hit the `Z` button to change scene.
 
-Z and X work like A and B on the regular NES. 
+`Z` and `X` work like `A` and `B` on the regular NES.
 
-The Directional Arrows are the D-Pad. 
+The Directional Arrows are the D-Pad.
 
-Press F5 for a borderless fullscreen mode, Alt+Enter for a bordered version (has black bars surrounding the game action). 
+Press `F5` for a borderless fullscreen mode, `Alt`+`Enter` for a bordered version (has black bars surrounding the game action).
 
-Pressing F6 in either windowed or fullscreen mode will adjust the aspect ratio, do this until you find the best compromise between image size and appearance.
+Pressing `F6` in either windowed or fullscreen mode will adjust the aspect ratio, do this until you find the best compromise between image size and appearance.
 
-Hold down the Shift button to dash around for faster walking if autodash has been disabled in the ingame system menu.
+Hold down the `Shift` button to dash around for faster walking if autodash has been disabled in the ingame system menu.
 
-The Q and W keys function like the L and R buttons did on SNES games and can be used on certain menus as a toggle or shift feature.
+The `Q` and `W` keys function like the `L` and `R` buttons did on SNES games and can be used on certain menus as a toggle or shift feature.
 
-Use the SHIFT key in battles to view info on enemies.
+Use the `SHIFT` key in battles to view info on enemies.
 
 
-== Tips ==
+Tips
+====
 
 * Click on EVERYTHING! You never know what you'll find......
 
@@ -41,11 +44,12 @@ Use the SHIFT key in battles to view info on enemies.
 
 * Mara (the mage) is the weakest character defensively, she will be in the greatest danger of damage/death, so keep her HP high at all times.
 
-== Features ==
+Features
+========
 
-* In battle, you have a "TP Meter". Once it hits 100%, you basically get several stat boosts due to the adrenaline flowing. 
+* In battle, you have a `TP Meter`. Once it hits 100%, you basically get several stat boosts due to the adrenaline flowing.
 
-It will only last at least until the battle ends, though, or unless you die. Using any move that uses TP points will lower this below %100 and remove the boost until it recharges, so bear that in mind.
+    It will only last at least until the battle ends, though, or unless you die. Using any move that uses TP points will lower this below %100 and remove the boost until it recharges, so bear that in mind.
 
 * Speak with the castle chancellor (the guy between the king and queen where you start) if you want to change the difficulty of the game.
 
@@ -55,13 +59,14 @@ It will only last at least until the battle ends, though, or unless you die. Usi
 
 * Speak to Brent the castle librarian to receive a Key Item that will serve as the ingame encyclopedia, usable from the item menu. It's still WIP, but does have the bestiary worked in at present.
 
-== Story Differences from the original Dragon Quest ==
+Story Differences from the original Dragon Quest
+================================================
 
 The game borrows merely the background lore of the first game, coupled with expanded lore found in Dragon Quest III, and from that springboard much has been expanded or written from whole cloth. While the overall plot attempts to maintain consistency with the original Dragon Quest, there are major differences.
 
 * You start with three party members (later, 4)
 
-* There are the Thieves, Magic, and Final Keys, all of which will be needed to finish the game, as opposed to disposable magic keys the player had to keep replenishing. All of the original Hero's equipment will be roughly consistent with Dragon Quest III, with a few allowances for the added armor pieces from Dragon Quest II. The magic system is largely based on Dragon Quest III, with some touches from other games in the series. 
+* There are the Thieves, Magic, and Final Keys, all of which will be needed to finish the game, as opposed to disposable magic keys the player had to keep replenishing. All of the original Hero's equipment will be roughly consistent with Dragon Quest III, with a few allowances for the added armor pieces from Dragon Quest II. The magic system is largely based on Dragon Quest III, with some touches from other games in the series.
 
 * There will be a multiclass system. One character can unlock their own variety on this fairly early on, while the others gain this as an unlockable much later.
 
@@ -72,7 +77,8 @@ The game borrows merely the background lore of the first game, coupled with expa
 * The encounters faced in this game feature most of the monsters from DQ1, and many other from other games in the series. Most of the bosses are either original derivatives of bosses from DQ1 or other DQ games, and if the True Ending route is unlocked, I plan to include a "True Final Boss".
 
 
-== Gameplay Differences from stock Dragon Quest ==
+Gameplay Differences from stock Dragon Quest
+============================================
 
 There are numerous differences, but these are ones that are particularly notable:
 
@@ -85,17 +91,15 @@ There are numerous differences, but these are ones that are particularly notable
 4. DO NOT expect many DQ1 specifics, like dark caves that require the Radiant spell or torches. I decided to excise this aspect because, while technically feasible, was incongruous with the rest of the series (particularly DQ3, the prequel) and I deemed it superfluous, since I have drastically redrawn the game world and the only things I have kept completely constant from the original game are the rough location of the original towns.
 
 
-=== Credits for Resources used ===
+Credits for Resources used
+==========================
 
 Aside from stock RMVX Ace Resources, I used resources from the following:
 
-=======================
-
 Graphics/Sprites/Sounds
+-----------------------
 
-=======================
-
-IMPORTANT NOTE: If it has a (COMMERICIAL) tag next to it, I had to pay actual money to acquire the rights to use this, and it may NOT be reused in other projects unless you have a legal copy of RPGmaker and have acquired your own copy from the source. 
+IMPORTANT NOTE: If it has a (COMMERICIAL) tag next to it, I had to pay actual money to acquire the rights to use this, and it may NOT be reused in other projects unless you have a legal copy of RPGmaker and have acquired your own copy from the source.
 
 They are only provided here in the archive for bugtesting and development reasons only in any WIP build, and any official release will fall under the same guidelines.
 
@@ -112,9 +116,9 @@ I believe in open sourcing my work because I'd like to make it easier for the co
 
 * Monster sprites from various Dragon Quest games - credit goes to Square-Enix for all of those. (LICENSED)
 
-* RPG Maker Characters - Team RWBY and Team JNPR by PandaNekoTaiso (Rooster Teeth also credited since RWBY is their web series) (available from the Steam Workshop and Deviantart)
+* RPG Maker Characters - Team RWBY and Team JNPR by PandaNekoTaiso ([Rooster Teeth](http://roosterteeth.com/) also credited since RWBY is their web series) (available from the Steam Workshop and Deviantart)
 
-* Big IconSet by aweryn (https://vxresource.wordpress.com/2010/07/05/biggest-iconset-ever/)
+* [Big IconSet by aweryn](https://vxresource.wordpress.com/2010/07/05/biggest-iconset-ever/)
 
 * Retrobits WIndow Skin by RPGMaker Source
 
@@ -152,7 +156,8 @@ I believe in open sourcing my work because I'd like to make it easier for the co
 
 * Event Free Slot Machine graphics and code by Richard Coletta
 
-== Music ==
+Music
+-----
 
 Unless a specific author name is cited, these are MP3/OGG from various Dragon Quest games, credit goes to Koichi Sugiyama and Square Enix for those. All (LICENSED) unless cited as otherwise.
 
@@ -174,21 +179,18 @@ Unless a specific author name is cited, these are MP3/OGG from various Dragon Qu
 
 * DQ4 Evil One (NDS version)
 
-=======
-
 Scripts
-
-=======
+-------
 
 (Any scripts noted as "removed" may be restored in later versions)
 
 1. Effectus by RPGMakerSource (COMMERICIAL)
 2. Respawn Timer by Galv
 3. Always Deal At Least 1HP Damage by DiamondandPlatinum3
-4. CSCA Core Script by Casper Gaming (http://www.caspergaming.com/)
+4. [CSCA Core Script by Casper Gaming](http://www.caspergaming.com/)
 5. Yanfly Learn Skill Engine by Yanfly
 6. Gender Functions by Mr. Bubble
-7. CSCA Encyclopedia by Casper Gaming (http://www.caspergaming.com/)
+7. [CSCA Encyclopedia by Casper Gaming](http://www.caspergaming.com/)
 8. Victory Aftermath by Yanfly
 9. Basic Game Time + Night/Day v1.6.2 by V.M of D.T
 10. Class System by Yanfly
@@ -196,14 +198,14 @@ Scripts
 12. Dragon Quest 1 Floor Damaging System by Soulpour777 (requested by GethN7)
 13. MenuStatus by dbchest
 14. MedalShop by dbchest (requested by GethN7)
-15. CSCA Professions by Casper Gaming (http://www.caspergaming.com/)
+15. [CSCA Professions by Casper Gaming](http://www.caspergaming.com/)
 16. Visual Battlers by Yanfly
-17. CSCA Toast Manager by Casper Gaming (http://www.caspergaming.com/)
+17. [CSCA Toast Manager by Casper Gaming](http://www.caspergaming.com/)
 18. Command Slider by Rpgmaker SOurce
-19. CSCA GameInfo by Casper Gaming (http://www.caspergaming.com/)
-20. CSCA Item Limitations by Casper Gaming (http://www.caspergaming.com/)
+19. [CSCA GameInfo by Casper Gaming](http://www.caspergaming.com/)
+20. [CSCA Item Limitations by Casper Gaming](http://www.caspergaming.com/)
 21. Ace Menu Engine by Yanfly
-22. CSCA Splash Screen by Casper Gaming (http://www.caspergaming.com/)
+22. [CSCA Splash Screen by Casper Gaming](http://www.caspergaming.com/)
 23. Class specifics (Class system addon) by Yanfly
 24. Class Unlock Level (Class system addon) by Yanfly
 25. Gender Requirements by Mr. Bubble
@@ -212,7 +214,7 @@ Scripts
 28. Yanfly Battle Engines Fixes by Yami
 29. Steal Items Addon by Shadowmaster
 30. System Options by Yanfly
-31. CSCA Difficulty System by Casper Gaming (http://www.caspergaming.com/)
+31. [CSCA Difficulty System by Casper Gaming](http://www.caspergaming.com/)
 32. Passive TP 100 State by SoulPour777
 33. SEA - Command Controller by SoulPour777
 34. SEA - Character Profile by SoulPour777
@@ -234,8 +236,8 @@ Scripts
 50. Enemy Reinforcement Events by Hime
 51. Split Transitions by RPGMakerSource
 52. System Options by Yanfly
-53. CSCA Colosseum by Casper Gaming (http://www.caspergaming.com/)
-54. CSCA Colosseum Wagers by Casper Gaming (http://www.caspergaming.com/)
+53. [CSCA Colosseum by Casper Gaming](http://www.caspergaming.com/)
+54. [CSCA Colosseum Wagers by Casper Gaming](http://www.caspergaming.com/)
 55. Smooth Cursor by RPGMakerSource
 56. Enemy Reinforcement by Hime
 57. Visual Novel Choices by Galv
@@ -246,36 +248,36 @@ Scripts
 62. Link Equipment to Skill/Item by Demintika
 
 
-== Additional Credits/Thanks To ==
+Additional Credits/Thanks To
+----------------------------
+
 * My family, for their support
 * The RPGMaker forums and their membership
 * The Drunkard's Walk Forums and their membership
-** Bob Schroeck, who has a character based on him with his permission
-** Brent Laabs, also has a character based on him with his permission.
+    + Bob Schroeck, who has a character based on him with his permission
+    + Brent Laabs (@labster), also has a character based on him with his permission.
 * Orain, which hosts the Orain branch of All The Tropes
-** Dustin Muniz: Owner of Orain, and the wiki farm service he hosts in general (where I serve as a staff member)
+    + Dustin Muniz (@damuniz): Owner of Orain, and the wiki farm service he hosts in general (where I serve as a staff member)
 * All The Tropes (Orain)
-
-** Ecceltennysmith: Member of ATT, has a character based off her with their permission
-
-** Doc Colress: Member of ATT, has a character based off them with their permission
+    + Ecceltennysmith: Member of ATT, has a character based off her with their permission
+    + Doc Colress: Member of ATT, has a character based off them with their permission
 
 * Wikia: Which hosts the Wikia branch of All The Tropes
 
 * Lady Tera of the SuccuWiki and her husband Keith, both of whom have characters based off them with their permission. Tera also deserves credit for beta reading and story advice integrating her and Keith's characters (modified from usual depictions in her own works) into my game.
 
 * The Project AFTER forums, for their blunt yet valuable criticism, without which I'm sure this game would be a steaming pile of crap.
-
-** Master of AFTER, Yaoi Huntress Earth, Schmekie, Bonglorio, and CobaltKori, all of whom are PA members and partially or completely are represented by ingame avatars, and all of whom have consented to their representation. All specific game avatars and sprites unique to those characters not stock assets of the base application or imported from official DLC or community resources are to be considered mine and theirs, and cannot be reused without our mutual consent elsewhere. 
+    + Master of AFTER, Yaoi Huntress Earth, Schmekie, Bonglorio, and CobaltKori, all of whom are PA members and partially or completely are represented by ingame avatars, and all of whom have consented to their representation. All specific game avatars and sprites unique to those characters not stock assets of the base application or imported from official DLC or community resources are to be considered mine and theirs, and cannot be reused without our mutual consent elsewhere.
 
 * Silenity, from the RpgmakerVxAce forums, whom I owe a debt for some complicated eventing and scripting assistance.
- 
+
 * SoulPour777 and dbchest, both members of the RPGMaker VXAce forums who wrote custom code for my project.
 
-* RPGMakerSource, for many excellent graphics and scripts (http://rpgmakersource.com/)
+* [RPGMakerSource](http://rpgmakersource.com/), for many excellent graphics and scripts.
 
 
-== Version Notes ==
+Version Notes
+=============
 
 * Alpha 0.1: Initial version.
 
@@ -289,11 +291,9 @@ Scripts
 
 * Alpha 0.6: (WIP) Last planned alpha before this hits beta status. Added rest of Garinheim, Garin's Tomb, Tantegel Treasure Keep, and Kol Teleport.
 
-==============
 
-Contact Info
-
-=============
+Contact
+=======
 
 To submit bug reports, compliments, complaints, or just to say hi, contact me at:
 
